@@ -73,6 +73,7 @@
 	  , "gleak": "0.2.3"
 	  , "step": "0.0.5"
 	  , "async": "0.1.22"
+    , "debug" : "https://github.com/CodeFridge/debug/tarball/master"
   }
 , "config":         { "native" : false }
 , "main":             "./lib/mongodb/index"
